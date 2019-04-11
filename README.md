@@ -1,1 +1,1 @@
-# python_GUI
+# python_GUI_tkinter
